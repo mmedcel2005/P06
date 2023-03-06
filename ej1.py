@@ -1,6 +1,6 @@
 nombre = input ("Introduce tu nombre: ")
 
-"""comentario multiples lineas"""
+"""otro cambio para hacer conflicto"""
 
 # comentario una linea
 def hola (nombreRecibido):
